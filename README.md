@@ -19,6 +19,7 @@ I'm a **practicing Data Scientist** 🧑‍🔬 and certified online education m
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=white&style=flat-square)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=SciPy&logoColor=white&style=flat-square)
+[![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)](https://scikit-learn.org/)
 
 
 **Visualization:**
